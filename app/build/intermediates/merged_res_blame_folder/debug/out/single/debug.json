@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\code\\android\\uni-app\\Android-SDK@3.6.3.81501_20220919\\Android-SDK@3.6.3.81501_20220919\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "D:\\code\\android\\uni-app\\Android-SDK@3.6.3.81501_20220919\\Android-SDK@3.6.3.81501_20220919\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\code\\android\\uni-app\\Android-SDK@3.6.3.81501_20220919\\Android-SDK@3.6.3.81501_20220919\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "D:\\code\\android\\uni-app\\Android-SDK@3.6.3.81501_20220919\\Android-SDK@3.6.3.81501_20220919\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\code\\android\\uni-app\\Android-SDK@3.6.3.81501_20220919\\Android-SDK@3.6.3.81501_20220919\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_push.png.flat",
+        "source": "D:\\code\\android\\uni-app\\Android-SDK@3.6.3.81501_20220919\\Android-SDK@3.6.3.81501_20220919\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    }
+]

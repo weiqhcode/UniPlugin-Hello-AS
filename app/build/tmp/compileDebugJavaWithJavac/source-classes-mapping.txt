@@ -1,0 +1,2 @@
+net/weiqh/test/BuildConfig.java
+ net.weiqh.test.BuildConfig
